@@ -5,6 +5,15 @@ Basecamp OAuth2 Strategy for OmniAuth 1.0. Largely inspired by Shopify's OmniAut
 Totally inspired by corewebdesign OmniAuth gem for Harvest
 https://github.com/corewebdesign/omniauth-harvest
 
+## Changelog
+
+0.2.0
+* Updated dependencies (thanks to [leavengood](https://github.com/leavengood))
+* Bundle update
+
+0.1.0
+- Initial Version
+
 ## Installing
 
 Add to your `Gemfile`:
