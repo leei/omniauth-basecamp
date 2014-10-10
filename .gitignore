@@ -16,3 +16,9 @@ tmp
 .yardoc
 _yardoc
 doc/
+
+# rvm and rbenv config
+.ruby-gemset
+.ruby-version
+.rbenv-version
+.rbenv-gemsets
