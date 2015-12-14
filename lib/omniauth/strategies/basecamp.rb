@@ -14,8 +14,8 @@ module OmniAuth
 
       info do
         {
-          'name': "#{identity['first_name']} #{identity['last_name']}",
-          'email': identity['email_address']
+          name: "#{identity['first_name']} #{identity['last_name']}",
+          email: identity['email_address']
         }
       end
 
